@@ -1,0 +1,66 @@
+.container{
+    max-width: 1180px;
+    margin: auto;
+}
+.addtask{
+    margin-bottom: 20px;
+    background-image: linear-gradient(to right, #8360c3, #2ebf91);
+    height: 660px;  
+    padding-top: 50px;
+    
+      }
+      .addflex{
+        background-color: #fff;
+        padding: 20px;
+        width: 40%;
+        margin-top: 7%;
+        margin-left: 25%;
+        text-align: center;
+      }
+     .form{
+      padding-top: 30px;
+     }
+    .TextField{
+        padding-top:30px ;
+        padding-bottom: 10px;
+        background-color: #fff;
+      }
+     
+     .title{
+      margin-top: 30px;
+      margin-bottom: 30px;
+     }
+     .taskdesc{
+      margin-bottom: 30px;
+     }
+     .Button{
+      margin-bottom: 30px;
+      color: #fff;
+     }
+     Link{
+    margin-left: 30px;
+     }
+     label{
+      color: #fff;
+     }
+      p{
+        color: #fff;
+        font-size: 20px;
+      }
+    .TextField{
+        color: #fff;
+      }
+      .taskbtn{
+        display: flex;
+        margin-top: 30px;
+        justify-content: space-evenly;
+      }
+    
+      span{
+        color: black;
+      }
+      .heading h3{
+        font-size: 23px;
+        font-family: sans-serif;
+        color: #8360c3;
+      }

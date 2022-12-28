@@ -1,0 +1,80 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1180px;
+    margin: auto;
+}
+    .nav{
+        background-color:#8360c3;
+      height: auto;
+    }
+    .navbarflex{
+      display: flex;
+      justify-content: space-between;
+    }
+    .navlogo{
+      padding-top: 30px;
+      padding-bottom: 30px;
+    }
+    .navlogo h2{
+      font-size: 32px;
+      color: #fff;
+      text-decoration: none;
+      font-family: sans-serif;
+    }
+    a{
+      text-decoration: none;
+    }
+    .navbarlist {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .content{
+        background-image: linear-gradient(to right, #8360c3, #2ebf91);
+      height: auto;  
+      padding-top: 50px;
+    }
+    .welcome{
+        width: 50%;
+      display: flex;
+      justify-content: center;
+    }
+    .welcome h2{
+        font-size: 40px;
+        color: #fff;
+        font-family: sans-serif;
+        margin-bottom: 20px;
+    }
+    .listissue{
+      width: 100%;
+      border-radius: 10px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 2%;
+    }
+    .listissue h3{
+      font-size: 25px;
+      font-family: sans-serif;
+      color:black;
+      padding: 30px;
+    }
+    .listissue h4{
+      font-size: 20px;
+      font-family: sans-serif;
+      color: black;
+      padding: 30px;
+    }
+    .listissue button{
+      margin-left: 20px;
+      margin-bottom: 20px;
+    }
+    .issue{
+      width: 48%;
+    background: #fff;
+    margin-bottom: 1rem;
+    border-radius: 10px;
+   
+    }
